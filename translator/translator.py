@@ -19,5 +19,5 @@ def translate(phrase):
     return translation
 
 print(
-    translate(input("Enter a Phrase: "))
+    translate(input("Please Enter a Phrase: "))
 )
