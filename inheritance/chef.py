@@ -1,3 +1,4 @@
+#This is the main class with the main functions
 class Chef:
     def make_chicken(self):
         print("The chef makes a chicken dish. ")
